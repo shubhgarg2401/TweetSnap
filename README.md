@@ -1,4 +1,4 @@
-# SnapLook
+# TweetSnap (Still in progress)
 
 application developed in django(python) which extracts images of specific hashtag from twitter and also analyze the images for their facial expression(anger, contempt, disgust, fear, happiness, neutral, sadness and surprise) using MICROSOFT emotion API.
 
